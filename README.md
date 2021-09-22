@@ -65,10 +65,13 @@ Criando DB no projeto
 
 
 <- Utilizar o terminal do próprio VS Code ->
-
-
+<br>
 <- Procurar a pasta do projeto utilizando ls e cd ->
+<br>
 <- Tecla CONTROL+C finaliza o server no terminal ->
+<br>
 <- O -D serve para instalar dependências necessárias somente no desenvolvimento ->
+<br>
 <- "start": "nodemon ."  . = main ->
+<br>
 <- Abrir no navegador = localhost:3000 ->
