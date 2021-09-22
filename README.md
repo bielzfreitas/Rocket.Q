@@ -43,11 +43,11 @@ Instalar o ejs e express
 <br>
 -> npm install express
 
-Para iniciar o node no projeto precisa utilizar o terminal para iniciar o node
+Para iniciar o node no projeto precisa utilizar o terminal
 <br>
 -> node src/server.js 
 <br>
--> npm start (mudou script no json)
+-> npm start (script no json)
 
 Instalando nodemon (liveserver)
 <br>
@@ -59,7 +59,7 @@ Instalando SqLite (data base)
 <br>
 -> npm install sqlite3
 
-Criando DB no projeto
+Iniciando e criando DB no projeto
 <br>
 -> npm run init-db
 
