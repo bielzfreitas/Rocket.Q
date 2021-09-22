@@ -31,7 +31,7 @@ Using Visual Studio Code and Google Chrome for coding.
 -> SQLite
 
 # Inicializando Node no Terminal Mac or Windows
-## Install this things : 
+## install this dependencies : 
 
 Instalar o node na pasta do projeto 
 <br>
