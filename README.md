@@ -63,7 +63,7 @@ Criando DB no projeto
 <br>
 -> npm run init-db
 
-
+# Help
 <- Utilizar o terminal do próprio VS Code ->
 <br>
 <- Procurar a pasta do projeto utilizando ls e cd ->
